@@ -1,0 +1,34 @@
+# --- Raw source data (large; not redistributed - see README for how to obtain) ---
+Data/Raw/
+Data/Lookup/flight_schedule/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Scratch / temp notebooks ---
+Untitled*.ipynb
+
+# --- OS / editor cruft ---
+Thumbs.db
+.DS_Store
+*.tmp
+*.lnk
+Desktop - Shortcut.lnk
+
+# --- Local tool config ---
+.claude/
+
+# --- Power BI: keep only the openable .pbix ---
+# Exclude the exploded PBIP project folders and my personal build-scaffolding
+# docs (build guide, DAX notes, theme, etc.) - they're not portfolio content.
+Dashboard/Final_Dashboard.Report/
+Dashboard/Final_Dashboard.SemanticModel/
+Dashboard/.gitignore
+Dashboard/*.md
+Dashboard/*.txt
+Dashboard/*.json
+
+# --- Internal planning doc (kept local, not portfolio content) ---
+AAI_Project_Structure.docx

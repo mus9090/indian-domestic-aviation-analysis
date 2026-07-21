@@ -12,7 +12,7 @@ Despite the monthly aviation traffic data published by DGCA, there is no consoli
 |---|---|
 | **1 : COVID Recovery** | Domestic traffic reached **116% of 2019 levels by 2025**. Of 920 routes analysed, **478 are new since 2019** and 50 were permanently lost. Fastest recovery: Delhi–Nasik (+1198%). |
 | **2 : Underserved Airports** | Across 128 airport-cities scored on passengers per lakh of population, **Ludhiana is the most underserved** ~16 lakh people but only 39 passengers per lakh. |
-| **3 : Seasonal Patterns** | **December is the single busiest month every year without exception** since 2019. Most seasonal: Goa and Leh–Srinagar (tourism); most stable: Delhi–Pune (business corridor). |
+| **3 : Seasonal Patterns** | **December is the peak travel month in 5 of the 7 years** (the year-end holiday surge). The exceptions: 2020 (COVID) and 2025, when November overtook a December hit by widespread airline cancellations. Most seasonal: Goa and Leh–Srinagar (tourism); most stable: Delhi–Pune (business corridor). |
 | **4 : Airline Competition (HHI)** | Of 594 routes in the Summer 2026 schedule, **zero are competitive** by HHI standards **68% (405 routes) are outright monopolies**, and IndiGo alone operates ~60% of all scheduled flights. |
 
 ## Tech Stack

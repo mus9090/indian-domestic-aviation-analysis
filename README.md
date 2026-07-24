@@ -1,4 +1,4 @@
-# Indian Domestic Aviation - Route Performance & Growth Analysis (2019–2025)
+# Indian Domestic Aviation - Route Performance & Growth Analysis (2019-2025)
 
 An end-to-end data analytics project on India's domestic aviation network, built during a Data Analytics internship at the **Airports Authority of India (AAI)**. It consolidates seven years of DGCA monthly city-pair traffic data into a clean analytical database and surfaces the insights through four analytical pillars and an interactive Power BI dashboard.
 

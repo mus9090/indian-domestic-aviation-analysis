@@ -103,6 +103,20 @@ Scripts resolve paths relative to their own location, so they run from any clone
 
 An interactive 4-page Power BI dashboard covering the four pillars - **National Overview · Route Performance · Underserved Airports · Airline Competition**. Open `Dashboard/Final_Dashboard.pbix` in Power BI Desktop to explore it.
 
+### Preview
+
+**1 · National Overview** — recovery trend and seasonality
+![National Overview](assets/screenshots/page1-national-overview.png)
+
+**2 · Route Performance** — COVID recovery, new vs lost routes
+![Route Performance](assets/screenshots/page2-route-performance.png)
+
+**3 · Underserved Airports** — connectivity gaps by city
+![Underserved Airports](assets/screenshots/page3-underserved-airports.png)
+
+**4 · Airline Competition** — market concentration (HHI) and airline share
+![Airline Competition](assets/screenshots/page4-airline-competition.png)
+
 ## Author
 
 **Muskaan Bhatia** - B.Tech CSE, MSIT Delhi. Data Analytics Intern, Airports Authority of India.

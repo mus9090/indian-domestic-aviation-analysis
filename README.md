@@ -43,8 +43,8 @@ At a glance, then in detail below:
 
 ### 4 · Airline Competition - *HHI*
 - Of **594 routes** in the Summer-2026 schedule, measured by the Herfindahl-Hirschman Index (HHI), **not one qualifies as competitive**.
-- **68% (405 routes) are outright monopolies** and another 32% are highly concentrated — closer to a duopoly than an open market.
-- **IndiGo alone operates ~60% (59.7%) of all scheduled domestic flights.** Even the busiest routes score near the HHI ceiling of 10,000 — the level at which a single carrier runs the entire route.
+- **68% (405 routes) are outright monopolies** and another 32% are highly concentrated closer to a duopoly than an open market.
+- **IndiGo alone operates ~60% (59.7%) of all scheduled domestic flights.** Even the busiest routes score near the HHI ceiling of 10,000 the level at which a single carrier runs the entire route.
 
 ## Tech Stack
 

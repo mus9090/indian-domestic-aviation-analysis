@@ -4,14 +4,14 @@ An end-to-end data analytics project on India's domestic aviation network, built
 
 ## Problem Statement
 
-The DGCA publishes India's domestic air-traffic data every month, but it arrives as **60+ fragmented Excel files and operator-wise schedule PDFs** — never as a single, analysable picture. As a result, basic strategic questions about the national network have no ready answer: nobody can easily see how traffic recovered after COVID, which routes appeared or disappeared, which cities are starved of connectivity, or how competitive the market actually is.
+The DGCA publishes India's domestic air-traffic data every month, but it arrives as **60+ fragmented Excel files and operator-wise schedule PDFs** never as a single, analysable picture. As a result, basic strategic questions about the national network have no ready answer: nobody can easily see how traffic recovered after COVID, which routes appeared or disappeared, which cities are starved of connectivity, or how competitive the market actually is.
 
 This project closes that gap. It consolidates **seven years of DGCA city-pair traffic data (2019–2025)** plus the **Summer-2026 airline schedule** into one clean analytical database, and answers four concrete questions:
 
-1. **Recovery & seasonality** — Has domestic air travel recovered to pre-COVID levels, and how does demand move through the year?
-2. **Route performance** — Which routes came back after COVID, which were lost for good, and which are growing fastest?
-3. **Connectivity gaps** — Which cities are most underserved relative to their population, and where are they concentrated?
-4. **Market competition** — How competitive is the domestic network, or is it dominated by a handful of carriers?
+1. **Recovery & seasonality** : Has domestic air travel recovered to pre-COVID levels, and how does demand move through the year?
+2. **Route performance** : Which routes came back after COVID, which were lost for good, and which are growing fastest?
+3. **Connectivity gaps** : Which cities are most underserved relative to their population, and where are they concentrated?
+4. **Market competition** : How competitive is the domestic network, or is it dominated by a handful of carriers?
 
 The findings are delivered through four analytical pillars and an interactive four-page Power BI dashboard.
 
@@ -22,26 +22,26 @@ At a glance, then in detail below:
 | Pillar | Headline |
 |---|---|
 | **1 · Recovery & Seasonality** | Domestic traffic hit **116% of 2019 levels** by 2025; December is the peak month in 5 of 7 years. |
-| **2 · Route Performance** | **478 new routes** since 2019 — but **50 lost for good**. |
-| **3 · Underserved Airports** | **Ludhiana** — 16 lakh people, just **39 passengers per lakh** — is India's most underserved city. |
+| **2 · Route Performance** | **478 new routes** since 2019 but **50 lost for good**. |
+| **3 · Underserved Airports** | **Ludhiana** - 16 lakh people, just **39 passengers per lakh** is India's most underserved city. |
 | **4 · Airline Competition** | **Zero** of 594 routes are competitive; **68% are monopolies** and IndiGo flies ~60% of all flights. |
 
-### 1 · Recovery & Seasonality — *National Overview*
-- Domestic passenger traffic reached **116% of 2019 volumes by 2025** — fully recovered and 16% above pre-pandemic levels.
+### 1 · Recovery & Seasonality - *National Overview*
+- Domestic passenger traffic reached **116% of 2019 volumes by 2025** fully recovered and 16% above pre-pandemic levels.
 - **December is the single busiest month in 5 of the 7 years**, driven by the year-end holiday surge. The exceptions are 2020 (COVID lockdown) and 2025, when November edged ahead of a December hit by widespread airline cancellations.
 - Most seasonal markets: **Goa** and **Leh–Srinagar** (tourism-driven); most stable: **Delhi–Pune** (a steady business corridor).
 
-### 2 · Route Performance — *COVID Recovery*
-- Of **920 routes analysed**, **478 are new since 2019** and **50 were permanently lost** — the network expanded fast post-COVID, but a cluster of regional routes hit by airline exits never returned.
+### 2 · Route Performance - *COVID Recovery*
+- Of **920 routes analysed**, **478 are new since 2019** and **50 were permanently lost** the network expanded fast post-COVID, but a cluster of regional routes hit by airline exits never returned.
 - Fastest recovery: **Delhi–Nasik (+1198%)**.
 - Every route is scored on a recovery index (2025 vs 2019) and classified from *Fully Recovered & Grown* down to *Lost Route*.
 
 ### 3 · Underserved Airports
 - **128 airport-cities** scored on passengers per lakh of population; **9 are critically underserved**.
-- **Ludhiana is India's most underserved city** — ~16 lakh residents but only **39 air passengers per lakh** (just **631 total air passengers in all of 2025**), despite a population bigger than many state capitals.
-- Underservice **concentrates in tier-2 cities of the northern plains and interior Maharashtra**. Most sit **150–300 km from the nearest major airport** — genuinely beyond easy reach of air travel, which argues they need their own connectivity, not just road links to a distant hub.
+- **Ludhiana is India's most underserved city** ~16 lakh residents but only **39 air passengers per lakh** (just **631 total air passengers in all of 2025**), despite a population bigger than many state capitals.
+- Underservice **concentrates in tier-2 cities of the northern plains and interior Maharashtra**. Most sit **150–300 km from the nearest major airport** genuinely beyond easy reach of air travel, which argues they need their own connectivity, not just road links to a distant hub.
 
-### 4 · Airline Competition — *HHI*
+### 4 · Airline Competition - *HHI*
 - Of **594 routes** in the Summer-2026 schedule, measured by the Herfindahl-Hirschman Index (HHI), **not one qualifies as competitive**.
 - **68% (405 routes) are outright monopolies** and another 32% are highly concentrated — closer to a duopoly than an open market.
 - **IndiGo alone operates ~60% (59.7%) of all scheduled domestic flights.** Even the busiest routes score near the HHI ceiling of 10,000 — the level at which a single carrier runs the entire route.
@@ -105,16 +105,16 @@ An interactive 4-page Power BI dashboard covering the four pillars - **National 
 
 ### Preview
 
-**1 · National Overview** — recovery trend and seasonality
+**1 · National Overview** - recovery trend and seasonality
 ![National Overview](assets/screenshots/page1-national-overview.png)
 
-**2 · Route Performance** — COVID recovery, new vs lost routes
+**2 · Route Performance** - COVID recovery, new vs lost routes
 ![Route Performance](assets/screenshots/page2-route-performance.png)
 
-**3 · Underserved Airports** — connectivity gaps by city
+**3 · Underserved Airports** - connectivity gaps by city
 ![Underserved Airports](assets/screenshots/page3-underserved-airports.png)
 
-**4 · Airline Competition** — market concentration (HHI) and airline share
+**4 · Airline Competition** - market concentration (HHI) and airline share
 ![Airline Competition](assets/screenshots/page4-airline-competition.png)
 
 ## Author
